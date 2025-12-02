@@ -30,8 +30,6 @@ This repository does **not** include:
 
 All discussion is high-level and intended for cyber-security education only.
 
----
-
 ## Architecture
 
 At a conceptual level, the demo is split into three parts:
@@ -65,9 +63,6 @@ The repository also includes:
 - Explores possible evolutions of presented software to highlight commonly used techniques and what to be cautious of.
 - Assumes a use process: emulates victim behaviour, exfiltrates the data from the source machine and receives it on the target machine.
 
-
----
-
 ## Intended Use Cases
 
 Some legitimate use cases in a **controlled, consent-based environment**:
@@ -80,8 +75,6 @@ Some legitimate use cases in a **controlled, consent-based environment**:
 - Testing defensive measures such as EDR rules, IDS signatures, or host hardening techniques against this style of behavior.
 
 If you are unsure whether a use case is legitimate, **assume it is not**.
-
----
 
 ## Legal & Ethical Notice
 
